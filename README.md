@@ -1,4 +1,4 @@
-![Web-developer](https://ibb.co/FnmL3fJ)
+![Web-developer](https://ibb.co/FnmL3fJ][img]https://i.ibb.co/QXp3Qqn/banner-github.png[/img][/url])
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
