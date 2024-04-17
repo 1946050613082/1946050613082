@@ -1,5 +1,5 @@
 
-![Aditya Kanoi Banner](https://i.ibb.co/87Pr2dX/develop-github.jpg)
+![Aditya Kanoi Banner](https://i.ibb.co/vqXLx8Z/edicion-imagen-github-2.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Sergio Alejandro Celeita A.</h2>
 
