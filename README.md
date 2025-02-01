@@ -11,7 +11,7 @@ Soy Desarrollador Front-end con sólidos conocimientos en HTML, CSS, C++, y Java
 
 💡  Me gusta crear experiencias web atractivas y funcionales, así como explorar nuevas tecnologías para desarrollar soluciones de software y hacks rápidos.
 
-🎓  Actualmente estoy estudiando Desarrollo Front-end en PROtalento, donde estoy aprendiendo tecnologías frontend como HTML, CSS y JavaScript. 
+🎓   estudiando Desarrollo Front-end en Ciadet, donde estoy aprendiendo tecnologías frontend como HTML, CSS y JavaScript. 
 
 🌱  Estoy interesado en seguir aprendiendo sobre el desarrollo Front-end y en mejorar mis habilidades en diseño y usabilidad de interfaces.
 
