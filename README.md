@@ -1,5 +1,5 @@
 
-![Aditya Kanoi Banner](https://i.ibb.co/vqXLx8Z/edicion-imagen-github-2.png)
+
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Sergio Alejandro Celeita A.</h2>
 
@@ -21,7 +21,7 @@ Soy Desarrollador Front-end con sólidos conocimientos en HTML, CSS, C++, y Java
 
 ✉️  Puedes escribirme a sergioalejandroceleitaangarita@gmail.com, ¡intentaré responder tan pronto como pueda!
 
-📄  Puedes encontrar más detalles sobre mi experiencia y habilidades en mi perfil de LinkedIn: https://www.linkedin.com/in/sergioceleita-front-end/
+📄  Puedes encontrar más detalles sobre mi experiencia y habilidades en mi perfil de LinkedIn: www.linkedin.com/in/sergioceleita-developer
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
 
 
